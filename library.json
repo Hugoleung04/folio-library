@@ -2,128 +2,128 @@
   "notes": [
     {
       "file": "lesson-01-tree-biology-codit.pdf",
-      "name": "L01 樹木腐朽區隔化：從林分格局到細胞壁",
-      "topic": "樹木生物學與土壤"
+      "name": "Compartmentalization of Decay (CODIT)",
+      "topic": "Tree biology & soils"
     },
     {
       "file": "lesson-02-soil-rhizosphere.pdf",
-      "name": "L02 城市土壤與根際：從封蓋集水區到根系碳成本",
-      "topic": "樹木生物學與土壤"
+      "name": "Urban soils & the rhizosphere",
+      "topic": "Tree biology & soils"
     },
     {
       "file": "lesson-03-pruning-principles.pdf",
-      "name": "L03 作為生理劑量的修剪：從樹冠移除到切面",
-      "topic": "種植選樹與修剪"
+      "name": "Pruning as a physiological dose",
+      "topic": "Planting, selection & pruning"
     },
     {
       "file": "lesson-04-pests-diseases.pdf",
-      "name": "L04 有害生物、病原與誘因：從地景到侵入門戶",
-      "topic": "病蟲害與風險"
+      "name": "Pests, pathogens & predisposition",
+      "topic": "Pests, disease & risk"
     },
     {
       "file": "lesson-05-planting-establishment.pdf",
-      "name": "L05 種植與定植：從苗圃系統到幹基膨大部分",
-      "topic": "種植選樹與修剪"
+      "name": "Planting & establishment",
+      "topic": "Planting, selection & pruning"
     },
     {
       "file": "lesson-06-tree-selection.pdf",
-      "name": "L06 作為性狀過濾的選樹：從區域庫到種植規格",
-      "topic": "種植選樹與修剪"
+      "name": "Tree selection & planting specs",
+      "topic": "Planting, selection & pruning"
     },
     {
       "file": "lesson-07-tree-risk-assessment.pdf",
-      "name": "L07 樹木風險評估：從目標到剩餘風險",
-      "topic": "病蟲害與風險"
+      "name": "Tree risk assessment",
+      "topic": "Pests, disease & risk"
     },
     {
       "file": "lesson-08-urban-forestry.pdf",
-      "name": "L08 作為族群的城市森林：從樹冠覆蓋到單株",
-      "topic": "城市森林管理"
+      "name": "Urban forest as a population",
+      "topic": "Urban forest management"
     },
     {
       "file": "lesson-09-biomechanics-typhoon.pdf",
-      "name": "L09 極端風下的樹木生物力學：從風場到剩餘木材",
-      "topic": "力學與極端氣候"
+      "name": "Tree biomechanics under extreme wind",
+      "topic": "Mechanics & extreme climate"
     },
     {
       "file": "lesson-10-construction-tpz.pdf",
-      "name": "L10 樹木與施工：從工程計劃到被切斷的根",
-      "topic": "施工與工程環境"
+      "name": "Trees & construction protection",
+      "topic": "Construction & infrastructure"
     },
     {
       "file": "lesson-11-decay-detection.pdf",
-      "name": "L11 腐朽偵測：從評估級別到剩餘幾何",
-      "topic": "病蟲害與風險"
+      "name": "Decay detection",
+      "topic": "Pests, disease & risk"
     },
     {
       "file": "lesson-12-stonewall-trees.pdf",
-      "name": "L12 建成擋土結構上的樹木：從耦合系統到界面",
-      "topic": "施工與工程環境"
+      "name": "Trees on retaining structures",
+      "topic": "Construction & infrastructure"
     },
     {
       "file": "lesson-13-support-systems.pdf",
-      "name": "L13 輔助支撐系統：從樹冠荷載到錨固傷口",
-      "topic": "種植選樹與修剪"
+      "name": "Supplemental support systems",
+      "topic": "Planting, selection & pruning"
     },
     {
       "file": "lesson-14-lightning-protection.pdf",
-      "name": "L14 樹木與雷電：從閃擊密度到導體路徑",
-      "topic": "力學與極端氣候"
+      "name": "Trees & lightning protection",
+      "topic": "Mechanics & extreme climate"
     },
     {
       "file": "lesson-15-ovt-veteran-stewardship.pdf",
-      "name": "L15 老齡樹：從古老族群到形成層島",
-      "topic": "特殊樹木與管護"
+      "name": "Veteran tree stewardship",
+      "topic": "Special trees & care"
     },
     {
       "file": "lesson-16-sensor-monitoring-residual-risk.pdf",
-      "name": "L16 樹木的儀器監測：從網絡到警報閾值",
-      "topic": "病蟲害與風險"
+      "name": "Instrument monitoring of trees",
+      "topic": "Pests, disease & risk"
     },
     {
       "file": "lesson-17-hydraulics-drought-irrigation.pdf",
-      "name": "L17 樹木水力、乾旱與灌溉：從氣候到脆弱性曲線",
-      "topic": "力學與極端氣候"
+      "name": "Hydraulics, drought & irrigation",
+      "topic": "Mechanics & extreme climate"
     },
     {
       "file": "lesson-18-registered-slopes.pdf",
-      "name": "L18 工程邊坡上的樹木：從集水區職責到根–土釘接觸",
-      "topic": "施工與工程環境"
+      "name": "Trees on engineered slopes",
+      "topic": "Construction & infrastructure"
     },
     {
       "file": "lesson-19-underground-utilities.pdf",
-      "name": "L19 樹木與地下管線：從共享立方公尺到切面",
-      "topic": "施工與工程環境"
+      "name": "Trees & underground utilities",
+      "topic": "Construction & infrastructure"
     },
     {
       "file": "lesson-20-mycorrhizae.pdf",
-      "name": "L20 城市菌根：從寄主群落到皮層交換",
-      "topic": "樹木生物學與土壤"
+      "name": "Urban mycorrhizae",
+      "topic": "Tree biology & soils"
     },
     {
       "file": "lesson-21-phenology-climate-timing.pdf",
-      "name": "L21 作為時鐘的物候：從區域季節到芽",
-      "topic": "特殊樹木與管護"
+      "name": "Phenology & climate timing",
+      "topic": "Special trees & care"
     },
     {
       "file": "lesson-22-palms.pdf",
-      "name": "L22 作為城市單子葉植物的棕櫚：從族群到單一頂端分生組織",
-      "topic": "特殊樹木與管護"
+      "name": "Urban palms",
+      "topic": "Special trees & care"
     },
     {
       "file": "lesson-23-urban-tree-mortality.pdf",
-      "name": "L23 城市樹木死亡：從種植計劃到管護共變項",
-      "topic": "城市森林管理"
+      "name": "Urban tree mortality",
+      "topic": "Urban forest management"
     },
     {
       "file": "lesson-24-drought-induced-tree-mortality.pdf",
-      "name": "L24 乾旱誘導的樹木死亡：從全球格局到木質部栓塞",
-      "topic": "力學與極端氣候"
+      "name": "Drought-induced tree mortality",
+      "topic": "Mechanics & extreme climate"
     },
     {
       "file": "lesson-25-urban-trees-heat.pdf",
-      "name": "L25 城市樹木與熱：從城市尺度冷卻到葉片能量平衡",
-      "topic": "力學與極端氣候"
+      "name": "Urban trees & heat",
+      "topic": "Mechanics & extreme climate"
     }
   ]
 }
