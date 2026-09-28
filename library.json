@@ -1,5 +1,9 @@
 {
   "notes": [
-    { "file": "week1.pdf", "name": "Week 1 lecture", "topic": "Calculus" }
+    {
+      "file": "lesson-24-drought-induced-tree-mortality.pdf",
+      "name": "Lesson 24 · Drought-Induced Tree Mortality（乾旱誘導的樹木死亡）",
+      "topic": "Literature review · Drought / xylem embolism"
+    }
   ]
 }
